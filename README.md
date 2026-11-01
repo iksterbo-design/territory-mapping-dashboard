@@ -2,7 +2,7 @@
 
 A geographic outreach explorer with choropleth-style markers, filters, and territory insights.  
 
-Live: `https://placeholder.vercel.app`
+Live: `https://territory-mapping-dashboard-839gmi52n-rojo12.vercel.app`
 
 ## Stack
 - Vite + Vanilla TypeScript + Tailwind CSS (dark mode)
