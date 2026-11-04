@@ -3,13 +3,18 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "A geographic outreach explorer with choropleth-style markers, filters, and territory insights.",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
-    "typescript": "~7.0.2",
-    "vite": "^8.3.5"
+    "typescript": "^5.6.3",
+    "vite": "^6.0.4",
+    "tailwindcss": "^3.4.10",
+    "postcss": "^8.4.47",
+    "autoprefixer": "^10.4.20",
+    "@types/node": "^22.10.4"
   }
 }
